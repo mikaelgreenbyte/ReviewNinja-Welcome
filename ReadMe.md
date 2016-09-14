@@ -24,7 +24,7 @@ convenience we also have a dropdown menu to add these comments
 automatically.
 
 Another key feature you need to know about is ninja stars. Ninja 
-stars are how you communicate that a pull request is okay to merge. 
+stars are how you communicate that a pull request is okay to merge. This is much nicer!
 You can set, by repository, how many ninja stars you think pull 
 requests should have before merging.
 
